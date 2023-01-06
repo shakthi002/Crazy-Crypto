@@ -200,7 +200,6 @@ def app():
     expander_bar = st.expander("About")
     expander_bar.markdown(
         """
-    * **This Project was done by Sriram**
     """
     )
 
